@@ -1,0 +1,383 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Remerciements}{iv}{chapter*.1}%
+\contentsline {chapter}{Table des matières}{xiii}{chapter*.2}%
+\contentsline {chapter}{Liste des figures}{xiv}{chapter*.3}%
+\contentsline {chapter}{Liste des tableaux}{xv}{chapter*.4}%
+\contentsline {chapter}{Liste des codes source}{xvi}{chapter*.5}%
+\contentsline {chapter}{Introduction Générale}{1}{chapter*.6}%
+\contentsline {part}{I\hspace {1em}Fondements Théoriques et Méthodologiques}{6}{part.1}%
+\contentsline {chapter}{\numberline {1}Cas Pratique Fil Rouge : Entreprise LiZbiZ}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Identité et Contexte de l'Entreprise}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Présentation Générale}{7}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Contexte Stratégique et Enjeux}{7}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Le Système d'Information : Périmètre de l'Audit}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}L'Application "APPLICATION"}{8}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Architecture Technique (Simplifiée)}{8}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Le Mandat d'Audit}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Origine de la Mission}{8}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objectifs de la Mission}{8}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Organisation de l'Équipe (RACI)}{9}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Environnement de Laboratoire (Immersion)}{9}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Travaux Pratiques Préparatoires}{9}{subsection.1.4.1}%
+\contentsline {chapter}{\numberline {2}Définitions, Concepts et Bases de l'Audit et du Contrôle}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Définitions, Concepts et Bases de l'Audit et du Contrôle}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Les Différences entre l'Audit et le Contrôle}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}L'Assurance Raisonnable}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Les Risques}{11}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Définition Académique du Risque}{11}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Généralités sur les Risques}{11}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Traitement du Risque}{12}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.4}Principaux Groupes de Risques Informatiques}{12}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {2.1.3.5}Risques en Audit}{12}{subsubsection.2.1.3.5}%
+\contentsline {paragraph}{Risque Inhérent}{12}{subsubsection.2.1.3.5}%
+\contentsline {paragraph}{Risque de Non-contrôle}{12}{subsubsection.2.1.3.5}%
+\contentsline {paragraph}{Risque de Non-détection}{14}{subsubsection.2.1.3.5}%
+\contentsline {paragraph}{Risque Technologique}{14}{subsubsection.2.1.3.5}%
+\contentsline {paragraph}{Risque de Mission}{14}{subsubsection.2.1.3.5}%
+\contentsline {subsubsection}{\numberline {2.1.3.6}La Matrice des Risques}{14}{subsubsection.2.1.3.6}%
+\contentsline {paragraph}{Rôle et définition}{14}{subsubsection.2.1.3.6}%
+\contentsline {paragraph}{Contenu d'une Matrice des Risques}{14}{subsubsection.2.1.3.6}%
+\contentsline {subsection}{\numberline {2.1.4}Le Contrôle Interne}{15}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Définition du Contrôle Interne}{15}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.1.4.2}Généralités sur le Contrôle Interne}{15}{subsubsection.2.1.4.2}%
+\contentsline {subsubsection}{\numberline {2.1.4.3}Évaluation du Système de Contrôle Interne}{16}{subsubsection.2.1.4.3}%
+\contentsline {subsection}{\numberline {2.1.5}La Règle des Quatre Yeux}{16}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}L'Allégorie des Deux Mains}{16}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Les Trois Piliers de l'Audit Interne}{16}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Point de Contrôle}{17}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Objectif de Contrôle}{18}{subsection.2.1.9}%
+\contentsline {paragraph}{Formulation}{18}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}Critère d'Évaluation}{18}{subsection.2.1.10}%
+\contentsline {subsection}{\numberline {2.1.11}Question d'Évaluation}{19}{subsection.2.1.11}%
+\contentsline {subsection}{\numberline {2.1.12}Constatation d'Audit}{19}{subsection.2.1.12}%
+\contentsline {subsubsection}{\numberline {2.1.12.1}Définitions}{19}{subsubsection.2.1.12.1}%
+\contentsline {subsubsection}{\numberline {2.1.12.2}Exemples}{19}{subsubsection.2.1.12.2}%
+\contentsline {paragraph}{Constatation Positive}{19}{subsubsection.2.1.12.2}%
+\contentsline {paragraph}{Constatation Négative}{20}{subsubsection.2.1.12.2}%
+\contentsline {subsection}{\numberline {2.1.13}Le Contradictoire}{20}{subsection.2.1.13}%
+\contentsline {subsection}{\numberline {2.1.14}Les Observations}{20}{subsection.2.1.14}%
+\contentsline {subsection}{\numberline {2.1.15}Sur Place et Sur Pièces}{21}{subsection.2.1.15}%
+\contentsline {subsection}{\numberline {2.1.16}L'Aveu de Carence}{21}{subsection.2.1.16}%
+\contentsline {section}{\numberline {2.2}Définitions, Concepts et Bases des Systèmes d'Information}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Notion de Système}{21}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Les Systèmes d'Information}{21}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Système Informatique}{21}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Système d'Information}{22}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}Fonction Informatique}{22}{subsubsection.2.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.2.4}Fonction d'Information}{22}{subsubsection.2.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.2.5}Problèmes Inhérents aux SI}{22}{subsubsection.2.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.2.6}Informatisation des SI}{22}{subsubsection.2.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.2.7}Types de Migration/Changement de SI}{23}{subsubsection.2.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.3}Système d'Exploitation}{23}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Système de Fichier}{24}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Fichiers}{24}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Base de Données}{24}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Réseau Informatique}{24}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Sécurité Informatique}{24}{subsection.2.2.8}%
+\contentsline {section}{\numberline {2.3}Les Contrôles en Audit des Systèmes d'Information}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Rôle}{25}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Les Contrôles dans les SI}{25}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}Contrôles Généraux}{25}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{Définition et objectif}{25}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{Quelques Champs d'Application}{25}{subsubsection.2.3.2.1}%
+\contentsline {subparagraph}{Sécurité des Systèmes et Gestion des Accès}{25}{subsubsection.2.3.2.1}%
+\contentsline {subparagraph}{La Gestion des Changements}{26}{subsubsection.2.3.2.1}%
+\contentsline {subparagraph}{La Gestion des Opérations Informatiques}{26}{subsubsection.2.3.2.1}%
+\contentsline {subparagraph}{Plans de Continuité des Activités et Reprise après Sinistre}{26}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}Contrôles d'Application}{26}{subsubsection.2.3.2.2}%
+\contentsline {paragraph}{Définition et objectif}{26}{subsubsection.2.3.2.2}%
+\contentsline {paragraph}{Quelques Champs d'Application}{26}{subsubsection.2.3.2.2}%
+\contentsline {subparagraph}{Contrôles d'Entrée de Données}{26}{subsubsection.2.3.2.2}%
+\contentsline {subparagraph}{Contrôle de Traitement de Données}{26}{subsubsection.2.3.2.2}%
+\contentsline {subparagraph}{Contrôle de Sortie de Données}{27}{subsubsection.2.3.2.2}%
+\contentsline {subparagraph}{Contrôle d'Accès Spécifiques aux Applications}{27}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.3}Complémentarité entre Contrôles Généraux et Contrôles d'Application}{27}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{Interdépendance fonctionnelle}{27}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{Sécurisation renforcée}{27}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{Prévention des erreurs à différents niveaux}{27}{subsubsection.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.2.4}Divergences entre Contrôles Généraux et Contrôles d'Application}{28}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{Portée}{28}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{Focalisation}{28}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{Approche Proactive vs Réactive}{28}{subsubsection.2.3.2.4}%
+\contentsline {chapter}{\numberline {3}Démarche Générale d'Audit des Systèmes d'Information}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Le Cadre Normatif et Déontologique de la Mission}{29}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}La Référence Absolue : ISO 19011}{29}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Les Principes de l'Audit (Comportement de l'Auditeur)}{29}{subsubsection.3.1.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Le Référentiel IFACI (IIA) : La Charte d'Audit}{29}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Phase 1 : Travaux Préparatoires et Planification}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Documents à Solliciter (Prise de Connaissance)}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Analyse Préalable des Risques}{30}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Identification des Ressources}{30}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Le Rapport d'Orientation (ou Plan de Mission)}{31}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Phase 2 : Exécution de la Mission (Le Terrain)}{31}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Réunion d'Ouverture (Kick-off Meeting)}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Techniques de Collecte d'Information}{31}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Les Entretiens}{31}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}L'Observation}{31}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}Les Tests Techniques et Analyse de Données}{32}{subsubsection.3.3.2.3}%
+\contentsline {subsection}{\numberline {3.3.3}Consignation des Faits (Les Papiers de Travail)}{32}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Phase 3 : Communication des Résultats}{32}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Le Projet d'Observation}{32}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Le Contradictoire (Validation)}{32}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Le Rapport Final}{33}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Réunion de Clôture}{33}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Phase 4 : Suivi de la Mission}{33}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Le Plan d'Action}{33}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Le Suivi (Follow-up)}{33}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Le Dossier d'Audit : Structure et Traçabilité}{33}{section.3.6}%
+\contentsline {section}{\numberline {3.7}La Matrice des Risques : Priorisation des Travaux}{33}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Workflow Séquentiel de la Mission}{34}{section.3.8}%
+\contentsline {part}{II\hspace {1em}Référentiels et Typologies d'Audit}{35}{part.2}%
+\contentsline {chapter}{\numberline {4}Normes et Référentiels Usuels en Audit des Systèmes d'Information}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}COSO : Le Modèle de Contrôle Interne}{36}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Présentation}{36}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Les Trois Objectifs}{36}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Les Cinq Composantes (Le Cube COSO)}{36}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}COBIT : La Gouvernance des SI}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Présentation}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Objectifs et Apports}{37}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Structure de COBIT (Version 5 / 2019)}{37}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Utilisation par l'Auditeur}{37}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}La Cascade d'Objectifs COBIT}{37}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}La Série ISO 27000 : La Sécurité Normative}{38}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Vue d'Ensemble}{38}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Importance pour l'Audit}{38}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Synthèse : Comment Choisir ?}{39}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Principaux Types d'Audit dans les Systèmes d'Information}{40}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Audit des Applications en Service}{41}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Enjeu fondamental}{41}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Périmètre et frontières}{41}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Dimensions caractéristiques}{41}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Fréquence et déclencheurs}{42}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Référentiels mobilisés}{42}{subsection.5.1.5}%
+\contentsline {section}{\numberline {5.2}Audit de la Fonction Informatique (DSI)}{42}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Enjeu fondamental}{43}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Périmètre et frontières}{43}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Dimensions caractéristiques}{43}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Fréquence et déclencheurs}{44}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Référentiels mobilisés}{44}{subsection.5.2.5}%
+\contentsline {section}{\numberline {5.3}Audit des Projets Informatiques}{44}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Enjeu fondamental}{44}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Périmètre et frontières}{45}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Dimensions caractéristiques}{45}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Fréquence et déclencheurs}{45}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Référentiels mobilisés}{45}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Audit du Support Utilisateur et de la Gestion du Parc}{46}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Enjeu fondamental}{46}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Dimensions caractéristiques}{46}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Audit de Sécurité Informatique}{47}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Enjeu fondamental}{47}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Les piliers D.I.C.T.}{47}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Dimensions caractéristiques}{48}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}Fréquence et déclencheurs}{48}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}Référentiels mobilisés}{48}{subsection.5.5.5}%
+\contentsline {section}{\numberline {5.6}Audit de la Continuité d'Activité et de la Résilience}{49}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Enjeu fondamental}{49}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Concepts fondamentaux}{49}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.3}Fréquence et déclencheurs}{50}{subsection.5.6.3}%
+\contentsline {subsection}{\numberline {5.6.4}Référentiels mobilisés}{50}{subsection.5.6.4}%
+\contentsline {section}{\numberline {5.7}Audit de la Fonction Étude (Développement)}{50}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Enjeu fondamental}{50}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Dimensions caractéristiques}{51}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5.7.3}Fréquence et déclencheurs}{51}{subsection.5.7.3}%
+\contentsline {subsection}{\numberline {5.7.4}Référentiels mobilisés}{51}{subsection.5.7.4}%
+\contentsline {section}{\numberline {5.8}Audit des Tiers, du Cloud et de l'Externalisation}{51}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Enjeu fondamental}{51}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}Dimensions caractéristiques}{52}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5.8.3}Fréquence et déclencheurs}{52}{subsection.5.8.3}%
+\contentsline {subsection}{\numberline {5.8.4}Référentiels mobilisés}{52}{subsection.5.8.4}%
+\contentsline {section}{\numberline {5.9}Interactions entre types d'audit et cartographie du risque SI}{53}{section.5.9}%
+\contentsline {part}{III\hspace {1em}Outils d'aide à l'audit}{55}{part.3}%
+\contentsline {chapter}{\numberline {6}Fondements de la Théorie de l'Information de Shannon}{56}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pourquoi un auditeur doit-il connaître la théorie de l'information~?}{56}{section.6.1}%
+\contentsline {section}{\numberline {6.2}La mesure de l'information}{57}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Le problème de la surprise}{57}{subsection.6.2.1}%
+\contentsline {paragraph}{Propriété d'additivité.}{57}{equation.6.1}%
+\contentsline {subsection}{\numberline {6.2.2}De l'événement à la source}{58}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}L'entropie de Shannon}{58}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Définition}{58}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Propriétés fondamentales}{58}{subsection.6.3.2}%
+\contentsline {paragraph}{Application au contexte trichotomique de l'audit.}{58}{equation.6.4}%
+\contentsline {subsection}{\numberline {6.3.3}Illustration sur des distributions élémentaires}{59}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Information mutuelle et réduction d'incertitude}{60}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Définition}{60}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Interprétation dans le contexte de l'audit}{61}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}La divergence de Kullback-Leibler et la mesure de l'écart normatif}{61}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Le codage de l'information~: lien avec la compression}{62}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Entropie et distributions trichotomiques~: analyse exhaustive}{63}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Paramétrisation de la surface d'entropie}{63}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Décomposition de l'entropie et contribution des composantes}{63}{subsection.6.6.2}%
+\contentsline {section}{\numberline {6.7}Application à la mesure de l'incertitude dans un audit}{64}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Modélisation formelle du processus d'audit}{64}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Le double signal de l'outil d'audit}{64}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Interprétation normative des seuils d'entropie}{65}{subsection.6.7.3}%
+\contentsline {section}{\numberline {6.8}Extensions~: entropie croisée et mesures apparentées}{66}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Synthèse~: de Shannon à l'audit}{67}{section.6.9}%
+\contentsline {section}{Références bibliographiques}{68}{Item.68}%
+\contentsline {section}{Exercices}{69}{Item.68}%
+\contentsline {chapter}{\numberline {7}Conception d'un Outil d'Aide à l'Audit des Systèmes d'Information}{71}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Pourquoi un outil structuré d'aide à l'audit~?}{71}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Fonctions de l'outil}{71}{subsection.7.1.1}%
+\contentsline {paragraph}{Fonction de complétude.}{71}{subsection.7.1.1}%
+\contentsline {paragraph}{Fonction de traçabilité.}{71}{subsection.7.1.1}%
+\contentsline {paragraph}{Fonction de standardisation.}{72}{subsection.7.1.1}%
+\contentsline {paragraph}{Fonction d'automatisation.}{72}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Ancrage normatif}{72}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}La méthode de décomposition hiérarchique}{72}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Vue d'ensemble de l'arborescence}{73}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Rôle et logique de chaque palier}{74}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Niveau~1. Le Domaine}{74}{subsection.7.3.1}%
+\contentsline {paragraph}{Clé de conception.}{74}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Niveau~2. Le Point de contrôle}{75}{subsection.7.3.2}%
+\contentsline {paragraph}{Clé de conception.}{75}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Niveau~3. L'Objectif de contrôle}{75}{subsection.7.3.3}%
+\contentsline {paragraph}{Clé de conception.}{75}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Niveau~4. Le Critère}{76}{subsection.7.3.4}%
+\contentsline {paragraph}{Clé de conception.}{76}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}Niveau~5. L'Élément requis}{76}{subsection.7.3.5}%
+\contentsline {paragraph}{Clé de conception.}{76}{subsection.7.3.5}%
+\contentsline {subsection}{\numberline {7.3.6}Niveau~6. La Question d'évaluation}{77}{subsection.7.3.6}%
+\contentsline {paragraph}{Clé de conception~: la réponse trichotomique.}{77}{subsection.7.3.6}%
+\contentsline {paragraph}{Mesure de l'incertitude par l'entropie de Shannon.}{78}{Item.90}%
+\contentsline {subsection}{\numberline {7.3.7}Niveau~7. Le Risque}{78}{subsection.7.3.7}%
+\contentsline {paragraph}{Clé de conception.}{79}{subsection.7.3.7}%
+\contentsline {subsection}{\numberline {7.3.8}Niveau~8. La Conséquence}{79}{subsection.7.3.8}%
+\contentsline {paragraph}{Clé de conception.}{79}{subsection.7.3.8}%
+\contentsline {section}{\numberline {7.4}Universalité et adaptabilité de la méthode}{79}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Structuration du fichier Excel de l'outil d'aide à l'audit}{81}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Architecture du classeur}{81}{subsection.7.5.1}%
+\contentsline {paragraph}{Organisation en feuilles.}{81}{subsection.7.5.1}%
+\contentsline {paragraph}{Nommage des feuilles.}{81}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Structure de chaque feuille de domaine}{82}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Fonctionnement des formules d'automatisation}{84}{subsection.7.5.3}%
+\contentsline {paragraph}{Formule de statut (colonne~K).}{84}{subsection.7.5.3}%
+\contentsline {paragraph}{Formule de criticité (colonne~J).}{84}{subsection.7.5.3}%
+\contentsline {paragraph}{Formule d'entropie (colonne~O, niveau point de contrôle).}{84}{subsection.7.5.3}%
+\contentsline {paragraph}{Formule de priorité (colonne~M).}{84}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}La feuille de synthèse}{85}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}Protocole de construction de l'outil pour un nouveau domaine}{86}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Étape~1~: Délimiter le domaine}{86}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Étape~2~: Identifier les points de contrôle}{86}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Étape~3~: Décomposer chaque point en objectifs de contrôle}{87}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Étape~4~: Dériver les critères}{87}{subsection.7.6.4}%
+\contentsline {subsection}{\numberline {7.6.5}Étape~5~: Spécifier les éléments requis et les questions}{87}{subsection.7.6.5}%
+\contentsline {subsection}{\numberline {7.6.6}Étape~6~: Formuler les risques et les conséquences}{87}{subsection.7.6.6}%
+\contentsline {subsection}{\numberline {7.6.7}Étape~7~: Saisir les formules d'automatisation et tester}{87}{subsection.7.6.7}%
+\contentsline {section}{\numberline {7.7}Le Tableau de Bord de Synthèse (Reporting)}{88}{section.7.7}%
+\contentsline {chapter}{\numberline {8}Décomposition Hiérarchique des Types d'Audit SI}{89}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Domaine 1, Audit des Applications en Service}{89}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Points de contrôle (Niveau 2)}{90}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Objectifs de contrôle par point (Niveau 3)}{90}{subsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.2.1}Point 1, Organisation}{90}{subsubsection.8.1.2.1}%
+\contentsline {subsubsection}{\numberline {8.1.2.2}Point 2, Application}{90}{subsubsection.8.1.2.2}%
+\contentsline {subsubsection}{\numberline {8.1.2.3}Point 3, Fonction informatique}{91}{subsubsection.8.1.2.3}%
+\contentsline {subsubsection}{\numberline {8.1.2.4}Points 4, 5 et 6, Adéquation, Performance, Évolutivité}{91}{subsubsection.8.1.2.4}%
+\contentsline {subsection}{\numberline {8.1.3}Décomposition illustrée (Niveaux 4 à 8)}{91}{subsection.8.1.3}%
+\contentsline {section}{\numberline {8.2}Domaine 2, Audit de la Fonction Informatique (DSI)}{93}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Points de contrôle (Niveau 2)}{93}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Objectifs de contrôle par point (Niveau 3)}{93}{subsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.2.1}Point 1, Rôle et positionnement}{93}{subsubsection.8.2.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2.2}Point 2, Planification stratégique}{93}{subsubsection.8.2.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.2.3}Point 3, Budgets et coûts}{94}{subsubsection.8.2.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.2.4}Point 4, Mesure et suivi de la performance}{94}{subsubsection.8.2.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.2.5}Point 5, Organisation et structure de la DSI}{94}{subsubsection.8.2.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.2.6}Point 6, Cadre législatif et réglementaire camerounais}{94}{subsubsection.8.2.2.6}%
+\contentsline {subsection}{\numberline {8.2.3}Décomposition illustrée (Niveaux 4 à 8)}{94}{subsection.8.2.3}%
+\contentsline {section}{\numberline {8.3}Domaine 3, Audit des Projets Informatiques}{96}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Points de contrôle (Niveau 2)}{96}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Objectifs de contrôle par point (sélection, Niveaux 3)}{96}{subsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.2.1}Points 1--3 : Enjeux, Besoins, Planification}{96}{subsubsection.8.3.2.1}%
+\contentsline {subsubsection}{\numberline {8.3.2.2}Points 4--6 : Pilotage, Méthodes, Qualité}{97}{subsubsection.8.3.2.2}%
+\contentsline {subsubsection}{\numberline {8.3.2.3}Points 7--10 : Conception, Développement, Tests}{97}{subsubsection.8.3.2.3}%
+\contentsline {subsubsection}{\numberline {8.3.2.4}Points 11--15 : Changement, Documentation, Production}{97}{subsubsection.8.3.2.4}%
+\contentsline {subsection}{\numberline {8.3.3}Décomposition illustrée (Niveaux 4 à 8)}{97}{subsection.8.3.3}%
+\contentsline {section}{\numberline {8.4}Domaine 4, Audit du Support Utilisateur et de la Gestion du Parc}{99}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Points de contrôle (Niveau 2)}{99}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Objectifs de contrôle par point (Niveau 3)}{99}{subsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.2.1}Point 1, Fonction support : fiabilité et sécurité}{99}{subsubsection.8.4.2.1}%
+\contentsline {subsubsection}{\numberline {8.4.2.2}Point 2, Fonction support : efficacité et performance}{99}{subsubsection.8.4.2.2}%
+\contentsline {subsubsection}{\numberline {8.4.2.3}Point 3, Gestion du parc : fiabilité et sécurité}{100}{subsubsection.8.4.2.3}%
+\contentsline {subsubsection}{\numberline {8.4.2.4}Point 4, Gestion du parc : efficacité et performance}{100}{subsubsection.8.4.2.4}%
+\contentsline {subsection}{\numberline {8.4.3}Décomposition illustrée (Niveaux 4 à 8)}{100}{subsection.8.4.3}%
+\contentsline {section}{\numberline {8.5}Domaine 5, Audit de Sécurité Informatique}{101}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Points de contrôle (Niveau 2)}{101}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Objectifs de contrôle par point (Niveau 3)}{102}{subsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.2.1}Point 1, Facteurs clés de succès}{102}{subsubsection.8.5.2.1}%
+\contentsline {subsubsection}{\numberline {8.5.2.2}Point 2, Politique de sécurité}{102}{subsubsection.8.5.2.2}%
+\contentsline {subsubsection}{\numberline {8.5.2.3}Point 3, Organisation de la sécurité}{102}{subsubsection.8.5.2.3}%
+\contentsline {subsubsection}{\numberline {8.5.2.4}Point 4, Classification et contrôle des actifs}{102}{subsubsection.8.5.2.4}%
+\contentsline {subsubsection}{\numberline {8.5.2.5}Point 5, Sécurité du personnel}{103}{subsubsection.8.5.2.5}%
+\contentsline {subsubsection}{\numberline {8.5.2.6}Point 6, Gestion des communications et des opérations}{103}{subsubsection.8.5.2.6}%
+\contentsline {subsubsection}{\numberline {8.5.2.7}Point 7, Conformité}{103}{subsubsection.8.5.2.7}%
+\contentsline {subsubsection}{\numberline {8.5.2.8}Point 8, Gestion des identifiants et des mots de passe}{103}{subsubsection.8.5.2.8}%
+\contentsline {subsubsection}{\numberline {8.5.2.9}Point 9, Contrôle des accès}{103}{subsubsection.8.5.2.9}%
+\contentsline {subsubsection}{\numberline {8.5.2.10}Point 10, Développement et maintenance des systèmes}{104}{subsubsection.8.5.2.10}%
+\contentsline {subsection}{\numberline {8.5.3}Décomposition illustrée (Niveaux 4 à 8)}{104}{subsection.8.5.3}%
+\contentsline {section}{\numberline {8.6}Domaine 6, Audit de la Fonction Étude (Développement)}{105}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Points de contrôle (Niveau 2)}{105}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Objectifs de contrôle par point (Niveau 3)}{105}{subsection.8.6.2}%
+\contentsline {subsubsection}{\numberline {8.6.2.1}Point 1, Activité de pilotage}{105}{subsubsection.8.6.2.1}%
+\contentsline {subsubsection}{\numberline {8.6.2.2}Point 2, Activités opérationnelles}{106}{subsubsection.8.6.2.2}%
+\contentsline {subsubsection}{\numberline {8.6.2.3}Point 3, Développement des applications spécifiques}{106}{subsubsection.8.6.2.3}%
+\contentsline {subsection}{\numberline {8.6.3}Décomposition illustrée (Niveaux 4 à 8)}{106}{subsection.8.6.3}%
+\contentsline {section}{\numberline {8.7}Exercice de synthèse, Construction de la grille complète}{109}{section.8.7}%
+\contentsline {part}{IV\hspace {1em}Enjeux Contemporains et Évaluation}{110}{part.4}%
+\contentsline {chapter}{\numberline {9}Sujets Connexes : IA et Fraude dans les SI}{111}{chapter.9}%
+\contentsline {section}{\numberline {9.1}L'Intelligence Artificielle et l'Audit}{111}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Le Rôle et l'Impact de l'IA dans les SI}{111}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Les Risques Liés à l'IA}{111}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Enjeux pour l'Auditeur}{111}{subsection.9.1.3}%
+\contentsline {section}{\numberline {9.2}La Fraude dans et par les Systèmes d'Information}{112}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Nature de la Fraude Informatique}{112}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}L'Impact de la Fraude}{112}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Les Parades (Dispositifs Anti-Fraude)}{112}{subsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.3.1}Contrôles Préventifs}{112}{subsubsection.9.2.3.1}%
+\contentsline {subsubsection}{\numberline {9.2.3.2}Contrôles Détectifs}{112}{subsubsection.9.2.3.2}%
+\contentsline {subsection}{\numberline {9.2.4}Le Cadre Réglementaire : L'IA Act et la Classification des Risques}{113}{subsection.9.2.4}%
+\contentsline {section}{\numberline {9.3}L'Audit Forensics : De la Constatation à la Preuve Judiciaire}{113}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}La Chaîne de Garde (Chain of Custody)}{113}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Principes de Saisie de Preuve Numérique}{113}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.3}Schématisation : Le Triangle de la Fraude}{114}{subsection.9.3.3}%
+\contentsline {chapter}{\numberline {10}Évaluation Finale du Cours}{115}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Partie A : QCM (Choix Multiples)}{115}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Partie B : Vrai ou Faux}{119}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Partie C : Questions Ouvertes}{119}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Partie D : Cas Pratique (Étude de Cas)}{120}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}Scénario : Audit de l'Application "Comptabilité" de Lizbiz's}{120}{subsection.10.4.1}%
+\contentsline {part}{V\hspace {1em}Travaux Pratiques Immersifs}{121}{part.5}%
+\contentsline {chapter}{\numberline {11}Laboratoire 1 : Audit d'une Application en Service}{122}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Objectifs du TP}{122}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Étape 1 : Préparation de l'Environnement (Base de Données)}{122}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Création du Schéma Relationnel}{122}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Chargement des Données de Test}{123}{subsection.11.2.2}%
+\contentsline {section}{\numberline {11.3}Étape 2 : Évaluation du Contrôle Interne (COSO)}{123}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Domaine : Environnement de Contrôle}{124}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Domaine : Activités de Contrôle (Séparation des Tâches)}{124}{subsection.11.3.2}%
+\contentsline {section}{\numberline {11.4}Étape 3 : Audit des Données (Tests Substantifs)}{124}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Test d'Intégrité : Recherche de Doublons}{124}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Test de Cohérence : Equilibre Journal}{124}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.3}Test de Convention : Seuil de Validation}{125}{subsection.11.4.3}%
+\contentsline {section}{\numberline {11.5}Étape 4 : Rapport d'Audit}{125}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Rédaction des Observations}{125}{subsection.11.5.1}%
+\contentsline {section}{\numberline {11.6}Livrables à rendre}{125}{section.11.6}%
+\contentsline {chapter}{\numberline {12}Laboratoire 2 : Audit de Sécurité d'une Infrastructure}{126}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Objectifs du TP}{126}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Étape 1 : Analyse de l'Architecture (Revue Documentaire)}{126}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Présentation de l'Infrastructure LiZbiZ}{126}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Travail Demandé : Analyse de la Cartographie}{126}{subsection.12.2.2}%
+\contentsline {section}{\numberline {12.3}Étape 2 : Découverte et Cartographie Réelle (Nmap)}{127}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Scan de Découverte}{127}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Questions d'Audit}{127}{subsection.12.3.2}%
+\contentsline {section}{\numberline {12.4}Étape 3 : Audit de Configuration et Vulnérabilités}{127}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Test de Segmentation (Bypass Pare-feu)}{127}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}Scan de Vulnérabilités (OpenVAS / Nessus)}{127}{subsection.12.4.2}%
+\contentsline {section}{\numberline {12.5}Étape 4 : Analyse des Configurations (Hardening)}{128}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Audit des Comptes par Défaut}{128}{subsection.12.5.1}%
+\contentsline {subsection}{\numberline {12.5.2}Audit des Protocoles}{128}{subsection.12.5.2}%
+\contentsline {section}{\numberline {12.6}Étape 5 : Rapport d'Audit Technique}{128}{section.12.6}%
+\contentsline {subsection}{\numberline {12.6.1}Synthèse des Risques}{128}{subsection.12.6.1}%
+\contentsline {subsection}{\numberline {12.6.2}Plan de Remédiation}{128}{subsection.12.6.2}%
+\contentsline {section}{\numberline {12.7}Livrables à Rendre}{128}{section.12.7}%
+\contentsline {chapter}{Conclusion Générale}{129}{chapter*.7}%
+\contentsline {chapter}{Index}{132}{Item.379}%
+\contentsfinish 
